@@ -5,7 +5,7 @@ const Welcome = () => {
     <div className="mb-4 Hey">
       <Alert variant="info" className="text-center rounded-0">
         <h1>Welcome to MyShop!</h1>
-        <p>Your one-stop destination for the best products and deals.</p>
+        <p>Books, Books, BOOOOOOKS!!!</p>
       </Alert>
     </div>
   );
