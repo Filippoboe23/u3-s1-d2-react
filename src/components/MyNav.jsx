@@ -9,7 +9,7 @@ const MyNav = () => {
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
-            <Nav className=" me-auto">
+            <Nav className=" ms-auto">
               <Nav.Link className="text-info" href="#">
                 Home
               </Nav.Link>
